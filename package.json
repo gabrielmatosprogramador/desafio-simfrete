@@ -1,0 +1,27 @@
+{
+  "name": "desafio-simfrete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "part1": "ts-node src/part1/index.ts",
+    "part2": "ts-node src/part2/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmatosprogramador/desafio-simfrete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabrielmatosprogramador/desafio-simfrete/issues"
+  },
+  "homepage": "https://github.com/gabrielmatosprogramador/desafio-simfrete#readme",
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
