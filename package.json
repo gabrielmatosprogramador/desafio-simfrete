@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "part1": "ts-node src/part1/index.ts",
-    "part2": "ts-node src/part2/index.ts"
+    "parte1": "ts-node src/parte1/index.ts",
+    "parte2": "ts-node src/parte2/index.ts"
   },
   "repository": {
     "type": "git",
