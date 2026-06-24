@@ -7,15 +7,21 @@
 - npm
 
 ### Instalação:
+```bash
 npm install
+```
 
 ### Parte 1 — Busca de cidade por CEP:
 Coloque o arquivo de entrada em `arquivos/parte1.txt` e execute:
+```bash
 npm run parte1
+```
 
 ### Parte 2 — Menor custo de transporte:
 Coloque o arquivo de entrada em `arquivos/parte2.txt` e execute:
+```bash
 npm run parte2
+```
 
 ## Observações:
 
