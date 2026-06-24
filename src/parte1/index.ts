@@ -45,4 +45,4 @@ function buscarCidade(cidades: Cidades[], cep: number ): string{
 }
 
 const resultado = buscarCidade(ordenaCidades, parseInt(cepBuscado))
-console.log(resultado);
+console.log(`O CEP pertence a cidade: ${resultado}`);
