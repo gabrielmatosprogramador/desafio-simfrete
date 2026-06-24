@@ -1,5 +1,7 @@
 # Desafio Simfrete
 
+Desafio técnico realizado para avaliação de conhecimentos para o processo seletivo para vaga de Desenvolvedor Back-End júnior
+
 ## Como executar:
 
 ### Pré-requisitos
