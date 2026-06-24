@@ -33,3 +33,18 @@ export function lerArquivo(nomeArquivo: string): Entrada1 {
     });
     return {cidades, cepBuscado};
 }
+
+//Lógica da parte 2
+
+export interface CustoTransporte {
+    cepOrigem: number;
+    cepDestino: number;
+    custo: number;
+}
+
+export interface Entrada2 {
+    cidades: Cidades[];
+    ligacoes: CustoTransporte[];
+    cepOrigem: string;
+    cepDestino: string;
+}
